@@ -1,5 +1,6 @@
+Stripped down version of the original repo #ComfyUI_Comfyroll_CustomNodes
 
-
+--
 
 # 🧩 Comfyroll Studio
 
